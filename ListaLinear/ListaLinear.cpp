@@ -133,6 +133,7 @@ void excluirElemento()
 	if(posicao == -1)
 	{
 		cout << "O elemento nao foi encontrado" << endl;
+		//batata
 	}
 	
 	for(int i = 0; i < nElementos; i++)
